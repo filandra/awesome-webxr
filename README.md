@@ -36,6 +36,7 @@
 
 *Impressive and notable WebXR projects.*
 
+- [NeoFables](https://neofables.com/) - Create your own worlds in the first dynamically AI generated VR storytelling experience. Nominated for "Game of the Year" and "Experience of the Year" at the 2024 Polys Immersive Awards. Also first GenAI VR experience featured by Meta.
 - [Hello WebXR](https://msub2.github.io/hello-webxr/) - Made to commemorate the release of the WebXR 1.0 API, showcases some of what's possible with WebXR.
   - This links to a mirror of the experience on my own fork, as it is no longer accessible at its original domain.
 - [Moonrider](https://moonrider.xyz/) - A rhythm game built by Supermedium similar to Beat Saber.
